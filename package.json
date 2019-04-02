@@ -5,12 +5,13 @@
   "main": "index.js",
   "module": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "esm": "^3.2.22",
+    "dotenv": "^7.0.0",
     "puppeteer": "^1.14.0"
   }
 }
