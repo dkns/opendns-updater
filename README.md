@@ -2,8 +2,8 @@
 
 This is a short script to help you update your ip address on OpenDNS settings website. There used to be (official?) perl script that was supposed to do it but:
 
-a) I can't seem to find it anymore and OpenDNS site only mentions Windows and Mac solutions for dynamic IPs
-b) I couldn't never get it to work
+1. I can't seem to find it anymore and OpenDNS site only mentions Windows and Mac solutions for dynamic IPs
+2. I couldn't never get it to work
 
 What this script does is it runs headless chrome browser that logs into your opendns account and clicks 'synch ip' button for you.
 
